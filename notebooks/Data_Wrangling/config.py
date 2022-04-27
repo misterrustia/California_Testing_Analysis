@@ -1,3 +1,0 @@
-client_id = "gqimocAPnvr9V-YjYhfElg"
-
-api_key = "w8hbp_wF-vcOLfBqiRtgq1aZq_Guj7IByG_9GsuM0EuX0RPNLAVKRG6VwWtyTBLs2T4cpOBLRE9NcX727cZw_0HKS3AsSae0JjRDDP2zMHBpjzDmMBXo1ZoSrGFcYnYx"
