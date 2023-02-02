@@ -1,6 +1,6 @@
-California Testing Analysis documentation
+# California Testing Analysis documentation
 
-##Introduction
+## Introduction
 
 With the pandemic closing school sites and no standardized testing occurring for the 2020 school year, the 2021 CAASPP California Assessment of Student Performance and Progress, 
 are the first state-reported test scores since 2019. Education is a complex and intricate part of our society, and the best way to assess student's performance throughout their educational journey will always be up for debate. Since the adoption of the Smarter Balanced Summative Assessments in California, there has been consistent data that could be used to gain insight into the state of student performance. Using multiple data sources, I built a model to predict the Mean Scale Score per student demographic at the school site level. My goal is to understand what quantifiable factors influence student 2021 CAASPP scores and predict how the change in the key features I uncover affects test scores. 
